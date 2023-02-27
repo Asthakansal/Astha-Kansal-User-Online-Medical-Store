@@ -1,0 +1,25 @@
+2023-02-27 09:12:56.365  WARN 288 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8h11m17s204ms533µs200ns).
+2023-02-27 10:10:08.259  WARN 288 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m11s429ms107µs900ns).
+2023-02-27 11:40:57.108  WARN 288 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m47s825ms624µs500ns).
+2023-02-27 12:02:18.900  INFO 24580 --- [main] m.o.OnlineMedicineStore1ApplicationTests : Starting OnlineMedicineStore1ApplicationTests using Java 17.0.6 on LIN800021737 with PID 24580 (started by askansal in C:\Users\askansal\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\OMS\OnlineMedicineStore1)
+2023-02-27 12:02:18.902  INFO 24580 --- [main] m.o.OnlineMedicineStore1ApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-02-27 12:02:19.929  INFO 24580 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-02-27 12:02:20.029  INFO 24580 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 83 ms. Found 1 JPA repository interfaces.
+2023-02-27 12:02:20.989  INFO 24580 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-02-27 12:02:21.105  INFO 24580 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-02-27 12:02:21.392  INFO 24580 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-02-27 12:02:21.760  INFO 24580 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-02-27 12:02:22.110  INFO 24580 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-02-27 12:02:22.148  INFO 24580 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-02-27 12:02:23.215  INFO 24580 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-02-27 12:02:23.228  INFO 24580 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 12:02:24.371  WARN 24580 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-27 12:02:25.302  INFO 24580 --- [main] m.o.OnlineMedicineStore1ApplicationTests : Started OnlineMedicineStore1ApplicationTests in 6.918 seconds (JVM running for 8.757)
+2023-02-27 12:02:25.646  INFO 24580 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 12:02:25.650  INFO 24580 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-02-27 12:02:25.657  INFO 24580 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-02-27 12:44:05.502  WARN 288 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m35s977ms695µs300ns).
+2023-02-27 13:28:37.148  WARN 288 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m30s672ms643µs600ns).
+2023-02-27 16:44:17.161  WARN 288 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=56m8s338ms869µs200ns).
+2023-02-27 18:24:56.592  WARN 288 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=44m37s882ms219µs300ns).
+2023-02-27 18:55:27.846  WARN 288 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m31s414ms704µs700ns).
